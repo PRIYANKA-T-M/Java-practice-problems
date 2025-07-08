@@ -1,0 +1,15 @@
+public class Main //main class name should be same as file name
+{
+	public static void main(String[] args) {
+		int tomato=2; //declaration & initialisation ---singleline comment
+		int weighing_scale=0;
+		weighing_scale=tomato;
+		System.out.println("weight="+weighing_scale);
+		/* this
+		is 
+		multi-line comment*/
+		
+		
+		
+	}
+}
